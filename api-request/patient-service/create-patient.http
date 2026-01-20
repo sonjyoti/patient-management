@@ -1,0 +1,13 @@
+### Create a new patient entity
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Kuldeep with billing account",
+  "email": "ksarma@gmail.com",
+  "address": "Akhra, Nalbari",
+  "dateOfBirth": "2001-01-09",
+  "registeredDate": "2026-01-15"
+}
+
+###
