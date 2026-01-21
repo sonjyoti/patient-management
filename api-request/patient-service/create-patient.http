@@ -3,9 +3,9 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Kuldeep with billing account",
-  "email": "ksarma@gmail.com",
-  "address": "Akhra, Nalbari",
+  "name": "Sonjyoti Kafka Test",
+  "email": "sonjyotimca@bhu.ac.in",
+  "address": "Boko",
   "dateOfBirth": "2001-01-09",
   "registeredDate": "2026-01-15"
 }
